@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool:robot 
+pool:infra 
 
 steps:
 - script: echo Hello, world!
